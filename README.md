@@ -1,1 +1,2 @@
-# my-brand by Tonny Chris
+# my-brand 
+Tonny Chris
